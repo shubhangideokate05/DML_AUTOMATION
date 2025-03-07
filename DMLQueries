@@ -1,0 +1,3 @@
+--These are the DML queries to be merged into main branch
+
+INSERT INTO table1 VALUES(5, 'Shubhangi');
