@@ -1,1 +1,1 @@
-Select * from employees;
+insert into employees values(4, "RAJ");
