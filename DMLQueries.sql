@@ -1,5 +1,1 @@
-
-CREATE TABLE employees (
-    id INT PRIMARY KEY,
-    name VARCHAR(100)
-);
+Select * from employees;
