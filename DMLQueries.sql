@@ -1,3 +1,3 @@
 
-insert into employees values(3, "Shubhangi");
+delete from employees where id =3;
 
